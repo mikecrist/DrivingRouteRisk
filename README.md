@@ -7,8 +7,8 @@ The goal of this project is to result in improved driver safety and efficiency f
 ## Credits
 This project was created for the Georgia Tech Master of Analytics program.<br>
 
-**Course:** Data and Visual Analytics (CSE6242)<br>
-**Team:** Michael Crist, Albert Hsueh, Sergio Roca
+**Course:** Applied Analytics Practicum<br>
+**Team:** Michael Crist, Vishal Jada, Hersh Gupta
 
 ## Table of Contents
 - [Environment Setup](#Environment-Setup)
