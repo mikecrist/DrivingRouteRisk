@@ -2,7 +2,7 @@
 This project details the exploratory data analysis, model building / evaluation, and feature analysis contributing to the ranking of riskiest driving routes in the greater Atlanta area. 
 The goal of this project is to result in improved driver safety and efficiency for Michelin Connected Fleet.
 
-**Project Report:** [Report](https://github.com/mikecrist/AirbnbSafety/blob/main/Report/Report_AirbnbSafety.pdf)
+**Project Report:** [Report](https://github.com/mikecrist/AirbnbSafety/blob/main/Report/Report_AirbnbSafety.pdf](https://github.com/mikecrist/DrivingRouteRisk/blob/main/Report/Report_DrivingRouteRisk.pdf)
 
 ## Credits
 This project was created for the Georgia Tech Master of Analytics program.<br>
